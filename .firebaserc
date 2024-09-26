@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "delivery2-2f9e3",
+    "development": "delivery2-2f9e3"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
